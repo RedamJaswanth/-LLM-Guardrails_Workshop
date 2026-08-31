@@ -24,4 +24,4 @@ LLM guardrails, safety, validation, and responsible AI behavior.
 Clone this repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/RedamJaswanth/LLM-Guardrails_Workshop.git
